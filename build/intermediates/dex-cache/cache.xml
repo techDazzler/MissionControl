@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_4066a06de6aebbce48f8b2d455e8aaaed5cffc66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_03fc7f2c49ac291be9b80220748e28298112f27c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6f72c0bd3bfc72fda7abc5598a18d4580e769614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_61308abbcbd47d7ba787dc4abc0945a93e6f9132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_fcc2fb8df8914e7da02fc95e7570026ff06e691f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8f5da8624c28fb19b969bfd5a7694a9ece6a9e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_5c21897819d2611e03734f36b10c15787013eabb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_058242b48512fca5e68692e1d50ef96dcbd7079e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_dbe95b28fbac0e59d468886041f50f47851a1bf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e82365656656828bc642c0b06d518d189fbe8e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f8830b051ef596a07b245b11b3dfe6eb19140147">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ce3b487c6490cdc54fe4a23d083bfa2972416f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_cda6bce9237b956f8c64c3ad4c467d59bf82af4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c98af5124e7e5782afe456139e9b093599c059c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_188bcd913c51a91707420d94561e5f1f19b36d00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_4c424e84cdf6807c32c760a1ab3b91cec8d3e98b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_c200b05cd1fda057b9c553b3589322b6128cf268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_ea2465033245c65a21a9a8b7e8be048f44fb941b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1f099fbda775a426fce3b1cdbef314d42f1fe63f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_da53ba34346ce4ef4826a5bd51a878895ab86515/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_dc20c57f965564f63538c89ad8bdb74bab9f1d51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_ec3904f6d00e3fcb383e930d8072155bc6774d33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_089f1226c63a6e82a09055946047e2385ef00a7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dcd75e12d342021013b64063cdcd78d73877c06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1c7f1066ac04a2e73026f92a975c4db28181eb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f4956d3a378fa9e15d7c6c3e2a1a24f6a7ef1897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76483a527ba79f9b5ee770975c0fecf1ea0a8301">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d6542ff6f984bb58218ad891038fd9999b562f06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_b2d408bba31edce249ff54d8a256a57d1dce7a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_2f8add4ce65ccf2e127c1cca33bf4111af053bad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_a4d290dffd2a5e96fc3daf25b6f53f1c8e6cd2de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_6b03dfa667e90ed2de2bf69f749c9f5c05252959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jhfgfhjgkg/Desktop/MissionControl/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e66cde41a21f9608fccf7f157ee4b336d6e3a239/classes.dex" />
+    </item>
+
+</items>

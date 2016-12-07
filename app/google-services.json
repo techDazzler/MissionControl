@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "203540712868",
+    "firebase_url": "https://mission-control-aa16d.firebaseio.com",
+    "project_id": "mission-control-aa16d",
+    "storage_bucket": "mission-control-aa16d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203540712868:android:81340d451cc3b7cc",
+        "android_client_info": {
+          "package_name": "manavkang.missioncontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203540712868-uu3id6ipql04u13uhrdcs88f6jlukep0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgYqLLJOQXqKO8kD36H7EfcC1PJ9agkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
